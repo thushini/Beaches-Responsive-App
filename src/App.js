@@ -1,13 +1,18 @@
 import React from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
+import Desti from './components/Desti';
+import Search from './components/Search';
+
 
 
 function App() {
   return (
     <div>
-      <Navbar/>
-      <Hero/>
+      <Navbar/>,
+      <Hero/>,
+      <Desti/>,
+      <Search/>,
     </div>
   );
 }
