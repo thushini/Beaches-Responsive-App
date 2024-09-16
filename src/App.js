@@ -9,10 +9,10 @@ import Search from './components/Search';
 function App() {
   return (
     <div>
-      <Navbar/>,
-      <Hero/>,
-      <Desti/>,
-      <Search/>,
+      <Navbar/>
+      <Hero/>
+      <Desti/>
+      <Search/>
     </div>
   );
 }
